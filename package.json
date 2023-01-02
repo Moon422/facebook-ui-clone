@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Moon422/facebook-ui-clone#readme",
   "devDependencies": {
     "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.10.3"
   }
 }
